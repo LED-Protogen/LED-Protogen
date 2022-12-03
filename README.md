@@ -5,10 +5,6 @@
 </a>
 
 <a href="https://github.com/LED-Protogen">
-  <img align="center" src="https://github.com/LED-Protogen/UwUVirus/releases/tag/batch" />   
-</a>
-
-<a href="https://github.com/LED-Protogen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LED-Protogen&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
