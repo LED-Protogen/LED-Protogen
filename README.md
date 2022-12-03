@@ -4,6 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LED-Protogen&show_icons=true&line_height=33&count_private=true&theme=dark" alt="LED-Protogen's GitHub Stats" />
 </a>
 
+<a href="https://github.com/LED-Protogen"
+  <img align="center" src="https://github.com/LED-Protogen/UwUVirus/releases/tag/batch" />   
+</a>
+
 <a href="https://github.com/LED-Protogen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LED-Protogen&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
